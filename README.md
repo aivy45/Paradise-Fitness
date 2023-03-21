@@ -9,8 +9,8 @@
    - [![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshunn_3945/)
    - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/akshun-verma-98110b214/)
 
-
-
+#### Here is the link of the website
+-[Click Here](https://paradise-fitness-gym.netlify.app/)
 
 - ![](https://img.shields.io/badge/HTML--CSS-JavaScript-lightgrey)
 
